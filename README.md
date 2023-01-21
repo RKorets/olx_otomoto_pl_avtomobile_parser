@@ -6,7 +6,7 @@
 За деталями звертайтесь на `dev.roman.korets@gmail.com`
 
 Або telegram `@romakorets`
-
+![car_pars_site](https://user-images.githubusercontent.com/93273641/213881089-83f63b6b-e695-4c8f-9b65-c845d25581db.jpg)
 
 
 # olx otomoto pl avtomobile parser
@@ -26,3 +26,4 @@ Monitoring of new ads on car sites (parsing) OLX \ OTOMOTO) **OLX / OTOMOTO.PL /
 For details contact `dev.roman.korets@gmail.com`
 
 Or telegram `@romakorets`
+![car_pars_site](https://user-images.githubusercontent.com/93273641/213881089-83f63b6b-e695-4c8f-9b65-c845d25581db.jpg)
