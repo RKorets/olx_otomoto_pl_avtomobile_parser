@@ -1,0 +1,2 @@
+# olx_otomoto_pl_avtomobile_parser
+Моніторинг нових оголошень
